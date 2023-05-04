@@ -10,8 +10,6 @@ functions and an [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) table for s
 
 ## Requirements
 
-- [AWS CLI](https://aws.amazon.com/cli/)
-- [AWS SAM](https://aws.amazon.com/serverless/sam/)
 - Java:
   - v17 — Micronaut, Quarkus, and Spring Boot
   - v11 — Dagger
@@ -231,22 +229,4 @@ It fits particularly well with Lambda to reduce the initialization time, but doe
         </tr>
 </table>
 
-## 👀 With other languages
 
-You can find implementations of this project in other languages here:
-
-* [☕ Java (GraalVM)](https://github.com/aws-samples/serverless-graalvm-demo)
-* [🦀 Rust](https://github.com/aws-samples/serverless-rust-demo)
-* [🏗️ TypeScript](https://github.com/aws-samples/serverless-typescript-demo)
-* [🐿️ Go](https://github.com/aws-samples/serverless-go-demo)
-* [⭐ Groovy](https://github.com/aws-samples/serverless-groovy-demo)
-* [🤖 Kotlin](https://github.com/aws-samples/serverless-kotlin-demo)
-* [🥅 .NET](https://github.com/aws-samples/serverless-dotnet-demo)
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
